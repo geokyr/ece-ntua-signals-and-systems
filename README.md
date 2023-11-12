@@ -1,4 +1,4 @@
-# ece-ntua-signals-and-systems
+# signals-and-systems
 
 Semester Project and Analytical Assignments for the [Signals and Systems](https://www.ece.ntua.gr/en/undergraduate/courses/3173) course, during the 3rd semester of the School of Electrical and Computer Engineering at the National Technical University of Athens.
 
